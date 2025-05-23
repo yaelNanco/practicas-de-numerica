@@ -10,3 +10,4 @@ grafica [LINK p4](https://github.com/yaelNanco/practicas-de-numerica/blob/main/l
 
 
 tarea 2:
+![rikka](https://www.pinterest.com/pin/anime-meme-gif-anime-meme-dance-discover-share-gifs--657807089332717484/)
