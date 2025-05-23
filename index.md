@@ -5,4 +5,4 @@ programas:
 tarea 1: 
 [LINK](https://github.com/yaelNanco/practicas-de-numerica/blob/main/lagraficacion.m)
 
-![Imagen](https://i.pinimg.com/236x/0b/c3/80/0bc380b8ac42e6570dde7dd000b1b590.jpg)
+![Imagen](https://us-prod.asyncgw.teams.microsoft.com/v1/objects/0-cus-d13-c67bfd6bb9015eefc35f45144641d93f/views/imgpsh_fullsize)
