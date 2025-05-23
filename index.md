@@ -9,5 +9,5 @@ multiplos filas [LINK p3](https://github.com/yaelNanco/practicas-de-numerica/blo
 grafica [LINK p4](https://github.com/yaelNanco/practicas-de-numerica/blob/main/lagraficacion.m)   
 
 
-tarea 2:
+tarea 2:  
 ![rikka](https://i.pinimg.com/originals/73/82/d3/7382d3fb3292e85a78c9acfedae611c6.gif)
