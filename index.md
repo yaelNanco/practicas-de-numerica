@@ -1,6 +1,6 @@
 # practicas de programacion numerica
 
-practica rerg
-1. rgege
-2. 2. erhthe
+programas:
+
+tarea 1: 
 [LINK](https://github.com/yaelNanco/practicas-de-numerica/blob/main/lagraficacion.m)
