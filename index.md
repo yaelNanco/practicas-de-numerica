@@ -37,6 +37,6 @@ los programas mas rapidos del oeste
 ![xd](https://c.tenor.com/LkQzw7k5DV4AAAAd/tenor.gif)
 
 
-programa tutorial:
+programa tutorial:   
 [![Nombre del video](https://img.youtube.com/vi/qXqW8JZTW08/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
