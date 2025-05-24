@@ -5,7 +5,7 @@ programas:
 tarea 1:   
 parte 1 [LINK p1](https://github.com/yaelNanco/practicas-de-numerica/blob/main/iniciotarea1.m)  
 parte 2 [LINK p2](https://github.com/yaelNanco/practicas-de-numerica/blob/main/multiplos_columna.m)  
-parte 3 filas [LINK p3](https://github.com/yaelNanco/practicas-de-numerica/blob/main/multiplos_fila.m)   
+parte 3 [LINK p3](https://github.com/yaelNanco/practicas-de-numerica/blob/main/multiplos_fila.m)   
 parte 4 [LINK p4](https://github.com/yaelNanco/practicas-de-numerica/blob/main/lagraficacion.m)   
   
 tarea 2:   
@@ -29,5 +29,7 @@ parte 1 [LINK](https://github.com/yaelNanco/practicas-de-numerica/blob/main/seis
 parte 2 [LINK](https://github.com/yaelNanco/practicas-de-numerica/blob/main/seisdos.m)  
 parte 3 [LINK](https://github.com/yaelNanco/practicas-de-numerica/blob/main/seistres.m)  
   
-  
-![rikka](https://i.pinimg.com/originals/73/82/d3/7382d3fb3292e85a78c9acfedae611c6.gif)
+
+
+los programas mas rapidos del oeste  
+![xd](https://tenor.com/search/fast-hacker-gifs)
