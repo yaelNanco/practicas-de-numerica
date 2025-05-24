@@ -38,4 +38,5 @@ los programas mas rapidos del oeste
   
 
 para mas infomacion, programa tutorial:   
-[![Nombre del video](https://img.youtube.com/vi/qXqW8JZTW08/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Nombre del video](https://img.youtube.com/vi/qXqW8JZTW08/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+(en mi defensa, chatgpt me la aplico primero cuando le pedi que enseñara como poner link de youtube)  
