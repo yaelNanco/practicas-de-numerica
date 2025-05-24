@@ -36,5 +36,7 @@ parte 3 [LINK](https://github.com/yaelNanco/practicas-de-numerica/blob/main/seis
 los programas mas rapidos del oeste  
 ![xd](https://c.tenor.com/LkQzw7k5DV4AAAAd/tenor.gif)
 
-[![Nombre del video](https://img.youtube.com/vi/NujWx4XkrQQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+programa tutorial:
+[![Nombre del video](https://img.youtube.com/vi/qXqW8JZTW08/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
