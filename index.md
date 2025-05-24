@@ -32,4 +32,4 @@ parte 3 [LINK](https://github.com/yaelNanco/practicas-de-numerica/blob/main/seis
 
 
 los programas mas rapidos del oeste  
-![xd](https://tenor.com/search/fast-hacker-gifs)
+![xd](https://c.tenor.com/LkQzw7k5DV4AAAAd/tenor.gif)
